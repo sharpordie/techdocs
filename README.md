@@ -1,6 +1,7 @@
-<h1>
+<p>
+  <br>
   <img src="assets/head.png" width="100%">
-</h1>
+</p>
 
 <img src="assets/waves.svg"/>
 
