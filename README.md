@@ -1,7 +1,7 @@
-<p>
+<!-- <p>
   <br>
   <img src="assets/head.png" width="100%">
-</p>
+</p> -->
 
 <h2></h2><div>
   <img align="left" height="98" src="assets/logo.png" alt="logo">
