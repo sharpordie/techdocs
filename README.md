@@ -11,7 +11,7 @@
 
 ## HARDWARE GUIDES
 
-<a href="myguides/src/master/src/hisense-u7qf-guide.md"><img src="https://fakeimg.pl/800x400/00A293/fff/?text=U7QF" width="48%"/></a><a href=""><img src="https://fakeimg.pl/1x1/fff/fff/" width="4%"/></a><a href="myguides/src/master/src/samsung-hw-q60t-guide.md"><img src="https://fakeimg.pl/800x400/173A8C/fff/?text=HW-Q60T" width="48%"/></a><a href="" height="10%"><img src="https://fakeimg.pl/1x1/fff/fff/" width="100%"/></a><a href="myguides/src/master/src/xiaomi-redmi-note-4-guide.md"><img src="https://fakeimg.pl/800x400/FF6900/fff/?text=REDMI NOTE 4" width="48%"/></a><a href=""><img src="https://fakeimg.pl/1x1/fff/fff/" width="4%"/></a><a href="myguides/src/master/src/zidoo-z9x-guide.md"><img src="https://fakeimg.pl/800x400/00F8D8/fff/?text=Z9X" width="48%"/></a>
+<a href="myguides/src/master/src/hisense-u7qf-guide.md"><img src="https://fakeimg.pl/800x400/00A293/fff/?text=U7QF" width="48%"/></a><a href=""><img src="https://fakeimg.pl/1x1/fff/fff/" width="4%"/></a><a href="myguides/src/master/src/samsung-hw-q60t-guide.md"><img src="https://fakeimg.pl/800x400/173A8C/fff/?text=HW-Q60T" width="48%"/></a><a href="" height="10%"><img src="https://fakeimg.pl/1x1/fff/fff/" height="10" width="100%"/></a><a href="myguides/src/master/src/xiaomi-redmi-note-4-guide.md"><img src="https://fakeimg.pl/800x400/FF6900/fff/?text=REDMI NOTE 4" width="48%"/></a><a href=""><img src="https://fakeimg.pl/1x1/fff/fff/" width="4%"/></a><a href="myguides/src/master/src/zidoo-z9x-guide.md"><img src="https://fakeimg.pl/800x400/00F8D8/fff/?text=Z9X" width="48%"/></a>
 
 
 ## SOFTWARE GUIDES
