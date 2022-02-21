@@ -1,14 +1,14 @@
-## Zidoo Z9X Guide
+## ZIDOO Z9X GUIDE
 
 <p>
-  <img alt="z9x zidoo" width="100%" src="https://notabug.org/foozoor/myguides/raw/master/src/assets/zidoo-z9x-guide.png">
+  <img alt="z9x zidoo" width="100%" src="assets/zidoo-z9x-guide.png">
 </p>
 
 Aenean non euismod odio. Suspendisse mollis tincidunt mattis.
 
 <!-- ----------------------------------------------------------------------------------------------------- -->
 
-## Change the default settings
+## CHANGE DEFAULT SETTINGS
 
 <p>
   <img alt="quick settings" width="100%" src="https://fakeimg.pl/1200x400/000/fff/?text=QUICK%20SETTINGS">
@@ -16,23 +16,23 @@ Aenean non euismod odio. Suspendisse mollis tincidunt mattis.
 
 Launch the **quick settings** application from home screen and adjust configs as follows.
 
-### Change the auto frame rate settings
+#### CHANGE AUTO FRAME RATE
 
 1. Reveal the **playback/auto frame rate** submenu
 1. Change the **frame rate mode** option to **match frame rate only**
 1. Change the **frame rate pause** option to **no pause**
 
-### Change the default language settings
+#### CHANGE DEFAULT LANGUAGE
 
 1. Reveal the **playback/default language** submenu
 1. Change the **default subtitles** option to **off**
 
-### Change the forced subtitle settings
+#### CHANGE FORCED SUBTITLE
 
 1. Reveal the **playback/forced subtitle** submenu
 1. Select the **auto** value
 
-### Change the color settings
+#### CHANGE COLORS
 
 1. Reveal the **display/color settings** submenu
 1. Change the **4k 50~60hz** option to **priority yuv420 10bit**
@@ -40,28 +40,28 @@ Launch the **quick settings** application from home screen and adjust configs as
 1. Change the **non-4k** option to **priority yuv444 8bit**
 1. Change the **hdmi color range** option to **16-235**
 
-### Change the hdr settings
+#### CHANGE HDR
 
 1. Reveal the **display/hdr** submenu
 1. Select the **dolby vision vs10 engine (for sdr, hdr, dv content)** value
 
-### Change the dolby vision compatibility settings
+#### CHANGE DOLBY VISION COMPATIBILITY
 
 1. Reveal the **display/dolby vision compatibility** submenu
 1. Select the **priority standard dv (tv led)** value.
 
-### Change the resolution settings
+#### CHANGE RESOLUTION
 
 1. Reveal the **display/resolution** submenu
 1. Select the **3840x2160 23hz** value
 1. Ensure the **lock resolution** option is checked
 
-### Change the hdmi audio settings
+#### CHANGE HDMI AUDIO
 
 1. Reveal the **audio/hdmi audio** submenu
 2. Select the **auto** value
 
-### Change the samba server settings
+#### CHANGE SAMBA SERVER
 
 1. Reveal the **network/samba server** submenu
 1. Ensure the **samba server** option is checked
@@ -69,31 +69,31 @@ Launch the **quick settings** application from home screen and adjust configs as
 1. Ensure the **enable passsword** option is checked
 1. Change the **username** and **password** values
 
-### Change the hdmi cec settings
+#### REMOVE HDMI CEC
 
 1. Reveal the **other/hdmi cec** submenu
 1. Ensure the **hdmi cec** option is unchecked
 
-### Change the weather widget settings
+#### REMOVE WEATHER WIDGET
 
 1. Reveal the **other/weather widget** submenu
 1. Ensure the **show weather widget** option is unchecked
 
 <!-- ----------------------------------------------------------------------------------------------------- -->
 
-## Update the firmware manually
+## UPDATE THE FIRMWARE
 
 <p>
   <img alt="update firmware" width="100%" src="https://fakeimg.pl/1200x400/000/fff/?text=UPDATE%20FIRMWARE">
 </p>
 
-### Gather the latest release from mcbluna
+#### GATHER LATEST RELEASE
 
 1. Launch the [mcbluna](https://www.mcbluna.net/wp/zidoo-model-overview/zidoo-z9x-firmware-download/) website
 1. Scroll the website to the very bottom
 1. Select the version (with or without gapps) you want to download
 
-### Update the device firmware
+#### UPDATE DEVICE FIRMWARE
 
 1. Tap on the **about** from the home screen
 1. Tap on the **update** button
@@ -101,7 +101,7 @@ Launch the **quick settings** application from home screen and adjust configs as
 1. Select the previously downloaded archive
 1. Ensure the device has rebooted
 
-### Unplug the device from power outlet
+#### UNPLUG DEVICE FOR FEW MINUTES
 
 1. Unplug the device from the power outlet
 1. Ensure to wait for 4-5 minutes
@@ -109,25 +109,25 @@ Launch the **quick settings** application from home screen and adjust configs as
 
 <!-- ----------------------------------------------------------------------------------------------------- -->
 
-## Enable the remote control option on your device
+## ENABLE REMOTE CONTROL
 
 <p>
   <img alt="remote control" width="100%" src="https://fakeimg.pl/1200x400/000/fff/?text=REMOTE%20CONTROL">
 </p>
 
-### Ensure the adb tools are installed
+#### ENSURE ADB IS INSTALLED
 
-#### On macOS
+##### ON MACOS
 
 1. Ensure you have [homebrew](https://brew.sh/) installed on your computer
 1. Launch the `brew install android-platform-tools` command 
 
-#### On Windows
+##### ON WINDOWS
 
 1. Ensure you have [scoop](https://scoop.sh/) installed on your computer
 1. Launch the `scoop install adb git` command
 
-### Enable the usb debbuging settings
+#### ENABLE USB DEBBUGING
 
 1. Launch the **quick settings** application from home screen
 1. Reveal the **others/about** submenu and tap **advanced settings**
@@ -138,7 +138,7 @@ Launch the **quick settings** application from home screen and adjust configs as
 1. Ensure the **usb debbuging** option is checked
 1. Tap on the **remote back button**
 
-### Ensure the computer has been approved
+#### ENSURE COMPUTER IS ALLOWED
 
 1. Tap on the **about tablet** link
 1. Remind the **two last digits** under **ip address**
