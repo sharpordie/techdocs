@@ -39,6 +39,6 @@ Aenean non euismod odio. Suspendisse mollis tincidunt mattis.
 
 <!-- ----------------------------------------------------------------------------------------------------- -->
 
-### CHANGE PICTURE SETTINGS
+## CHANGE PICTURE SETTINGS
 
 Aenean non euismod odio. Suspendisse mollis tincidunt mattis.
