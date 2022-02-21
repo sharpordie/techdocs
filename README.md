@@ -1,13 +1,13 @@
-<!-- <p>
+<p>
   <br>
-  <img src="assets/head.png" width="100%">
-</p> -->
+  <a href="/"><img alt="myguides" src="assets/head.png" width="100%"></a>
+</p>
 
-<h2></h2><div>
+<!-- <h2></h2><div>
   <img align="left" height="98" src="assets/logo.png" alt="logo">
   <h1>techdocs</h1>
   <p>Technical guides and articles</p>
-</div><h2></h2>
+</div><h2></h2> -->
 
 ## HARDWARE GUIDES
 
@@ -16,7 +16,7 @@
 
 ## SOFTWARE GUIDES
 
-<a href="myguides/src/master/src/hisense-u7qf-guide.md"><img src="https://fakeimg.pl/800x400/75B410/fff/?text=JDOWNLOADER" width="48%"/></a><a><img src="https://fakeimg.pl/1x1/fff/fff/" width="4%"/></a><a href="myguides/src/master/src/zidoo-hometheater-guide.md"><img src="https://fakeimg.pl/800x400/834FE5/fff/?text=HOMETHEATER" width="48%"/></a>
+<a href="myguides/src/master/src/hisense-u7qf-guide.md"><img src="https://fakeimg.pl/800x400/75B410/fff/?text=JDOWNLOADER" width="49.5%"/></a><a><img src="https://fakeimg.pl/1x1/fff/fff/" width="1%"/></a><a href="myguides/src/master/src/zidoo-hometheater-guide.md"><img src="https://fakeimg.pl/800x400/834FE5/fff/?text=HOMETHEATER" width="49.5%"/></a>
 
 ## LICENSE
 
