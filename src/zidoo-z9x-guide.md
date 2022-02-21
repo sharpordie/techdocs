@@ -10,10 +10,6 @@ Aenean non euismod odio. Suspendisse mollis tincidunt mattis.
 
 ## CHANGE DEFAULT SETTINGS
 
-<p>
-  <img alt="quick settings" width="100%" src="https://fakeimg.pl/1200x400/000/fff/?text=QUICK%20SETTINGS">
-</p>
-
 Launch the **quick settings** application from home screen and adjust configs as follows.
 
 #### CHANGE AUTO FRAME RATE
@@ -83,10 +79,6 @@ Launch the **quick settings** application from home screen and adjust configs as
 
 ## UPDATE THE FIRMWARE
 
-<p>
-  <img alt="update firmware" width="100%" src="https://fakeimg.pl/1200x400/000/fff/?text=UPDATE%20FIRMWARE">
-</p>
-
 #### GATHER LATEST RELEASE
 
 1. Launch the [mcbluna](https://www.mcbluna.net/wp/zidoo-model-overview/zidoo-z9x-firmware-download/) website
@@ -110,10 +102,6 @@ Launch the **quick settings** application from home screen and adjust configs as
 <!-- ----------------------------------------------------------------------------------------------------- -->
 
 ## ENABLE REMOTE CONTROL
-
-<p>
-  <img alt="remote control" width="100%" src="https://fakeimg.pl/1200x400/000/fff/?text=REMOTE%20CONTROL">
-</p>
 
 #### ENSURE ADB IS INSTALLED
 

@@ -10,10 +10,6 @@ Aenean non euismod odio. Suspendisse mollis tincidunt mattis.
 
 ## UPDATE THE FIRMWARE
 
-<p>
-  <img alt="update firmware" width="100%" src="https://fakeimg.pl/1200x400/000/fff/?text=UPDATE%20FIRMWARE">
-</p>
-
 #### GATHER LATEST RELEASE
 
 1. Launch the [4pda.to](https://4pda.to/forum/index.php?s=&showtopic=1001258&view=findpost&p=98936543) russian forum
@@ -45,6 +41,4 @@ Aenean non euismod odio. Suspendisse mollis tincidunt mattis.
 
 ### CHANGE PICTURE SETTINGS
 
-<p>
-  <img alt="picture settings" width="100%" src="https://fakeimg.pl/1200x400/000/fff/?text=PICTURE%20SETTINGS">
-</p>
+Aenean non euismod odio. Suspendisse mollis tincidunt mattis.
