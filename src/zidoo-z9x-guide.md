@@ -134,3 +134,10 @@ Launch **quick settings** from home screen and adjust configs as follows.
 1. Ensure the **allow usb debbugging** message has appeared
 1. Ensure the **always allow from this computer** option is checked
 1. Tap on the **ok button**
+
+<!-- ----------------------------------------------------------------------------------------------------- -->
+
+## USEFUL RESOURCES
+
+- [Official Zidoo forum](http://forum.zidoo.tv/index.php?forums/hdd-media-player-rtd-1619dr.54/)
+- [OlivierQC's YouTube channel](https://www.youtube.com/channel/UCwz_OZWlielee6EoX_IFBgg)

@@ -41,3 +41,10 @@ Aenean non euismod odio. Suspendisse mollis tincidunt mattis.
 ## CHANGE PICTURE SETTINGS
 
 Aenean non euismod odio. Suspendisse mollis tincidunt mattis.
+
+<!-- ----------------------------------------------------------------------------------------------------- -->
+
+## USEFUL RESOURCES
+
+- [4pda Russian forum](https://4pda.to/forum/index.php?s=&showtopic=1001258)
+- [Hisense Reddit Community](https://www.reddit.com/r/Hisense/)
