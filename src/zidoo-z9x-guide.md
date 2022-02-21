@@ -10,7 +10,7 @@ Aenean non euismod odio. Suspendisse mollis tincidunt mattis.
 
 ## CHANGE DEFAULT SETTINGS
 
-Launch the **quick settings** application from home screen and adjust configs as follows.
+Launch **quick settings** from home screen and adjust configs as follows.
 
 #### CHANGE AUTO FRAME RATE
 
@@ -39,7 +39,7 @@ Launch the **quick settings** application from home screen and adjust configs as
 #### CHANGE HDR
 
 1. Reveal the **display/hdr** submenu
-1. Select the **dolby vision vs10 engine (for sdr, hdr, dv content)** value
+1. Select the **auto** value
 
 #### CHANGE DOLBY VISION COMPATIBILITY
 
@@ -83,7 +83,7 @@ Launch the **quick settings** application from home screen and adjust configs as
 
 1. Launch the [mcbluna](https://www.mcbluna.net/wp/zidoo-model-overview/zidoo-z9x-firmware-download/) website
 1. Scroll the website to the very bottom
-1. Select the version (with or without gapps) you want to download
+1. Select the version without Google Apps preinstalled
 
 #### UPDATE DEVICE FIRMWARE
 
@@ -130,7 +130,7 @@ Launch the **quick settings** application from home screen and adjust configs as
 
 1. Tap on the **about tablet** link
 1. Remind the **two last digits** under **ip address**
-1. Launch the `adb connect 192.168.xx.xx` command on your computer
-1. Ensure the **allow usb debbugging** message has appeared on your device
+1. Launch the `adb connect 192.168.xx.xx` command
+1. Ensure the **allow usb debbugging** message has appeared
 1. Ensure the **always allow from this computer** option is checked
 1. Tap on the **ok button**
