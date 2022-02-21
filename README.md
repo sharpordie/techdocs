@@ -1,6 +1,6 @@
 <p>
   <br>
-  <a href="/"><img alt="myguides" src="assets/head.png" width="100%"></a>
+  <a href="../../"><img alt="myguides" src="assets/head.png" width="100%"></a>
 </p>
 
 <!-- <h2></h2><div>
