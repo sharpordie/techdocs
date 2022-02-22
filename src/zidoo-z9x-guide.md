@@ -141,3 +141,4 @@ Launch **quick settings** from home screen and adjust configs as follows.
 
 - [Official Zidoo forum](http://forum.zidoo.tv/index.php?forums/hdd-media-player-rtd-1619dr.54/)
 - [OlivierQC's YouTube channel](https://www.youtube.com/channel/UCwz_OZWlielee6EoX_IFBgg)
+- [Some useful test patterns](https://drive.google.com/drive/folders/1yAq-jgsb8pYa92PnGZkxyEV0E3VVkhiC)
