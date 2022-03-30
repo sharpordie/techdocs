@@ -31,5 +31,7 @@ Description goes here.
 1. Switch the soundbar to the USB source
 1. Ensure the soundboard's display is showing **UPDATE**
 1. Ensure the soundbar is turning off
-1. Select the **PLAY/PAUSE** button for 5 seconds until **INIT** appears
+1. Select the **PLAY/PAUSE** remote button for 5 seconds
+1. Or select the **VOL+** and **VOL-** from the soundbar for 5 seconds
+1. Ensure the **INIT** appears on the soundboard's display
 1. Ensure the soundbar is turning off
