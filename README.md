@@ -1,7 +1,8 @@
-<p>
-  <br>
-  <a href="../../"><img alt="myguides" src="assets/head.png" width="100%"></a>
-</p>
+<h2></h2><div>
+<a href="../.."><img align="left" height="98" src="assets/logo.png" alt="logo"></a>
+<h1>techdocs</h1>
+<p>Technical guides for anyone</p>
+</div><h2></h2>
 
 ## HARDWARE GUIDES
 
@@ -10,7 +11,3 @@
 ## SOFTWARE GUIDES
 
 <a href="src/jdownloader-guide.md"><img src="https://fakeimg.pl/800x400/75B410/fff/?text=JDOWNLOADER" width="49.5%"/></a><a><img src="https://fakeimg.pl/1x1/fff/fff/" width="1%"/></a><a href="src/zidoo-hometheater-guide.md"><img src="https://fakeimg.pl/800x400/834FE5/fff/?text=HOMETHEATER" width="49.5%"/></a><a href="src/kodi-guide.md"><img src="https://fakeimg.pl/800x400/17B2E7/fff/?text=KODI" width="49.5%"/></a>
-
-## LICENSE
-
-Phasellus suscipit enim erat, quis pharetra turpis feugiat eu.
