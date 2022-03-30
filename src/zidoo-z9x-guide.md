@@ -4,7 +4,7 @@
   <img alt="z9x zidoo" width="100%" src="assets/zidoo-z9x-guide.png">
 </p>
 
-Aenean non euismod odio. Suspendisse mollis tincidunt mattis.
+Description goes here.
 
 <!-- ----------------------------------------------------------------------------------------------------- -->
 
@@ -62,7 +62,7 @@ Launch **quick settings** from home screen and adjust configs as follows.
 1. Reveal the **network/samba server** submenu
 1. Ensure the **samba server** option is checked
 1. Ensure the **allow data to be written** option is checked
-1. Ensure the **enable passsword** option is checked
+1. Ensure the **enable password** option is checked
 1. Change the **username** and **password** values
 
 #### REMOVE HDMI CEC
@@ -123,7 +123,7 @@ Launch **quick settings** from home screen and adjust configs as follows.
 1. Ensure the **build number** has been tapped 7-8 times
 1. Tap on the **remote back button**
 1. Reveal the **advanced/developer option** submenu
-1. Ensure the **usb debbuging** option is checked
+1. Ensure the **usb debugging** option is checked
 1. Tap on the **remote back button**
 
 #### ENSURE COMPUTER IS ALLOWED
@@ -131,7 +131,7 @@ Launch **quick settings** from home screen and adjust configs as follows.
 1. Tap on the **about tablet** link
 1. Remind the **two last digits** under **ip address**
 1. Launch the `adb connect 192.168.xx.xx` command
-1. Ensure the **allow usb debbugging** message has appeared
+1. Ensure the **allow usb debugging** message has appeared
 1. Ensure the **always allow from this computer** option is checked
 1. Tap on the **ok button**
 

@@ -1,6 +1,10 @@
 ## KODI GUIDE
 
-<img width="100%" src="https://fakeimg.pl/1100x550/17B2E7/fff/?text=KODI">
+<p>
+  <img alt="u7qf" width="100%" src="https://fakeimg.pl/830x415/17B2E7/fff/?text=KODI">
+</p>
+
+Description goes here.
 
 <!-- ----------------------------------------------------------------------------------------------------- -->
 

@@ -1,6 +1,10 @@
 ## NVIDIA SHIELD PRO GUIDE
 
-<img width="100%" src="https://fakeimg.pl/1100x550/76D300/fff/?text=SHIELD%20PRO">
+<p>
+  <img alt="u7qf" width="100%" src="https://fakeimg.pl/830x415/76D300/fff/?text=SHIELD%20PRO">
+</p>
+
+Description goes here.
 
 <!-- ----------------------------------------------------------------------------------------------------- -->
 
