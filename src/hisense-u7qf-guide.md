@@ -9,10 +9,6 @@ Description here.
 
 ## UPDATE FIRMWARE
 
-<p>
-  <img width="100%" src="https://fakeimg.pl/830x415/000/fff/?text=FIRMWARE">
-</p>
-
 ### Gather latest release
 
 1. Launch the [4pda.to](https://4pda.to/forum/index.php?s=&showtopic=1001258&view=findpost&p=98936543) Russian forum
@@ -42,10 +38,6 @@ Description here.
 
 
 ## PICTURE SETTINGS
-
-<p>
-  <img width="100%" src="https://fakeimg.pl/830x415/000/fff/?text=PICTURE">
-</p>
 
 ### Enable the enhanced format
 
@@ -115,15 +107,11 @@ Description here.
 
 ## BACKUP SETTINGS
 
-<p>
-  <img width="100%" src="https://fakeimg.pl/830x415/000/fff/?text=BACKUP">
-</p>
-
 ### Export settings
 
-1. Ensure you plugged an USB drive correctly
+1. Ensure you plugged the USB drive correctly
 1. Reveal the **menu/settings/sound/speakers/balance** submenu
-1. Select the 0548 numbers on the remote control
+1. Select the **0548** numbers on the remote control
 1. Ensure the hidden menu service is opened and click OK
 1. Scroll down and select the clone menu
 1. Select clone to USB, a dummy copy failure message may appear
@@ -136,13 +124,9 @@ Description here.
 
 ## USEFUL RESOURCES
 
-<p>
-  <img width="100%" src="https://fakeimg.pl/830x415/000/fff/?text=RESOURCES">
-</p>
-
 ### Community
 
-- [4pda Russian forum](https://4pda.to/forum/index.php?s=&showtopic=1001258)
+- [4pda Russian Thread For U7QF](https://4pda.to/forum/index.php?s=&showtopic=1001258)
 - [Hisense Reddit Community](https://www.reddit.com/r/Hisense/)
 
 ### Miscellaneous
